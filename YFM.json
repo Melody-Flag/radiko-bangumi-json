@@ -4,7 +4,7 @@
       "_text": "1800"
     },
     "srvtime": {
-      "_text": "1557371487"
+      "_text": "1557407560"
     },
     "stations": {
       "station": {
@@ -7612,7 +7612,7 @@
             "prog": [
               {
                 "_attributes": {
-                  "id": "9488263486",
+                  "id": "9488263718",
                   "master_id": "",
                   "ft": "20190510050000",
                   "to": "20190510053000",
@@ -7668,7 +7668,7 @@
               },
               {
                 "_attributes": {
-                  "id": "9488263487",
+                  "id": "9488263719",
                   "master_id": "",
                   "ft": "20190510053000",
                   "to": "20190510060000",
@@ -7712,7 +7712,7 @@
               },
               {
                 "_attributes": {
-                  "id": "9488263488",
+                  "id": "9488263720",
                   "master_id": "",
                   "ft": "20190510060000",
                   "to": "20190510090000",
@@ -7756,7 +7756,7 @@
               },
               {
                 "_attributes": {
-                  "id": "9488263489",
+                  "id": "9488263721",
                   "master_id": "",
                   "ft": "20190510090000",
                   "to": "20190510120000",
@@ -7808,7 +7808,7 @@
               },
               {
                 "_attributes": {
-                  "id": "9488263490",
+                  "id": "9488263722",
                   "master_id": "",
                   "ft": "20190510120000",
                   "to": "20190510150000",
@@ -7860,16 +7860,16 @@
               },
               {
                 "_attributes": {
-                  "id": "9488263491",
+                  "id": "9488263723",
                   "master_id": "",
                   "ft": "20190510150000",
-                  "to": "20190510190000",
+                  "to": "20190510170000",
                   "ftl": "1500",
-                  "tol": "1900",
-                  "dur": "14400"
+                  "tol": "1700",
+                  "dur": "7200"
                 },
                 "title": {
-                  "_text": "Tresen Friday"
+                  "_text": "Tresen Friday (1)"
                 },
                 "url": {
                   "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=TresenFriday"
@@ -7912,7 +7912,59 @@
               },
               {
                 "_attributes": {
-                  "id": "9488263509",
+                  "id": "9488263724",
+                  "master_id": "",
+                  "ft": "20190510170000",
+                  "to": "20190510190000",
+                  "ftl": "1700",
+                  "tol": "1900",
+                  "dur": "7200"
+                },
+                "title": {
+                  "_text": "Tresen Friday (2)"
+                },
+                "url": {
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=TresenFriday"
+                },
+                "failed_record": {
+                  "_text": "0"
+                },
+                "ts_in_ng": {
+                  "_text": "0"
+                },
+                "ts_out_ng": {
+                  "_text": "0"
+                },
+                "desc": {},
+                "info": {
+                  "_text": "金曜日はTresen FRIDAY！！！<br />植松哲平、じゅんごのコンビでお送りします！！<br />メッセージテーマは「これ知ってる？？ウンチクの話」<br />どんなジャンルでも思わず「へぇー」って思う様なウンチク教えて下さい！<br />16:00   名曲誕生のドラマを紐解く「トレセン名曲劇場」<br />16:20    ゲスト<br />17:25   お薦めの旧作映画をネタバレ紹介「佐々木旧作」<br />17:36     Fマリノス同好会フライデー<br />18:00   とれせん非常勤リポーター<br />18:20   ドリンクバー先生が降臨！？セミナー「脇水の家」<br />もうとんでもねえ予感しかしない４時間！お楽しみに！！<br />twitterアカウントは「<a href=\"http://twitter.com/tresen_Fyoko\">@tresen_Fyoko</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%A8%E3%82%8C%E3%81%9B%E3%82%93\">#とれせん</a>」<br /><br />メールアドレス：<br /><a href=\"mailto:tresen@fmyokohama.jp\">tresen@fmyokohama.jp</a>"
+                },
+                "pfm": {
+                  "_text": "植松哲平 / じゅんご"
+                },
+                "img": {
+                  "_text": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/a8a7824c-7679-4b2c-8114-1f630ff3b2b3.png"
+                },
+                "metas": {
+                  "meta": [
+                    {
+                      "_attributes": {
+                        "name": "twitter",
+                        "value": "#とれせん"
+                      }
+                    },
+                    {
+                      "_attributes": {
+                        "name": "twitter",
+                        "value": "from:tresen_Fyoko"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "_attributes": {
+                  "id": "9488263755",
                   "master_id": "",
                   "ft": "20190510190000",
                   "to": "20190510214500",
@@ -7964,7 +8016,7 @@
               },
               {
                 "_attributes": {
-                  "id": "9488263492",
+                  "id": "9488263725",
                   "master_id": "",
                   "ft": "20190510214500",
                   "to": "20190510220000",
@@ -8008,7 +8060,7 @@
               },
               {
                 "_attributes": {
-                  "id": "9488263493",
+                  "id": "9488263726",
                   "master_id": "",
                   "ft": "20190510220000",
                   "to": "20190510232000",
@@ -8052,7 +8104,7 @@
               },
               {
                 "_attributes": {
-                  "id": "9488263494",
+                  "id": "9488263727",
                   "master_id": "",
                   "ft": "20190510232000",
                   "to": "20190510233000",
@@ -8096,7 +8148,7 @@
               },
               {
                 "_attributes": {
-                  "id": "9488263495",
+                  "id": "9488263728",
                   "master_id": "",
                   "ft": "20190510233000",
                   "to": "20190511000000",
@@ -8140,7 +8192,7 @@
               },
               {
                 "_attributes": {
-                  "id": "9488263496",
+                  "id": "9488263729",
                   "master_id": "",
                   "ft": "20190511000000",
                   "to": "20190511003000",
@@ -8184,7 +8236,7 @@
               },
               {
                 "_attributes": {
-                  "id": "9488263497",
+                  "id": "9488263730",
                   "master_id": "",
                   "ft": "20190511003000",
                   "to": "20190511010000",
@@ -8228,7 +8280,7 @@
               },
               {
                 "_attributes": {
-                  "id": "9488263498",
+                  "id": "9488263731",
                   "master_id": "",
                   "ft": "20190511010000",
                   "to": "20190511013000",
@@ -8272,7 +8324,7 @@
               },
               {
                 "_attributes": {
-                  "id": "9488263499",
+                  "id": "9488263732",
                   "master_id": "",
                   "ft": "20190511013000",
                   "to": "20190511020000",
@@ -8316,7 +8368,7 @@
               },
               {
                 "_attributes": {
-                  "id": "9488263500",
+                  "id": "9488263733",
                   "master_id": "",
                   "ft": "20190511020000",
                   "to": "20190511023000",
@@ -8360,7 +8412,7 @@
               },
               {
                 "_attributes": {
-                  "id": "9488263501",
+                  "id": "9488263734",
                   "master_id": "",
                   "ft": "20190511023000",
                   "to": "20190511030000",
@@ -8404,7 +8456,7 @@
               },
               {
                 "_attributes": {
-                  "id": "9488263502",
+                  "id": "9488263735",
                   "master_id": "",
                   "ft": "20190511030000",
                   "to": "20190511050000",
@@ -8461,7 +8513,7 @@
             "prog": [
               {
                 "_attributes": {
-                  "id": "9488190158",
+                  "id": "9488265308",
                   "master_id": "",
                   "ft": "20190511050000",
                   "to": "20190511080000",
@@ -8473,7 +8525,7 @@
                   "_text": "The Burn"
                 },
                 "url": {
-                  "_text": "https://www.fmyokohama.co.jp/pc/program/TheBurn"
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=TheBurn"
                 },
                 "failed_record": {
                   "_text": "0"
@@ -8484,10 +8536,10 @@
                 "ts_out_ng": {
                   "_text": "0"
                 },
-                "desc": {
-                  "_text": "週末のアウトドア情報と、テンションあがる音楽満載でお送りする週末お出かけアウトドアプログラム。"
+                "desc": {},
+                "info": {
+                  "_text": "今週もマンゴー隊のアナタからのアウトドア報告や<br />アウトドアで聴きたい曲、移動中の車の中で聴きたい曲のリクエストお待ちしてます！<br />メッセージ・リクエストが採用されるともれなくプレゼントＧＥＴ！<br />5:35　東京湾・相模湾・釣り公園などの最新釣り情報<br />5:45　Sagamiya presents 爆釣モーニング～旬の釣りクイズ「ナマズ」<br />6:20　アウトドアデイジャパン実行委員長：沖田雅生さんのキャンプ入門<br />6:40　湘南・千葉の最新波情報<br />7:00　7時頭はレゲエでスタート「7 inch 7 o'clock」<br />7:15　Good To Go～焚き火と「サヴォリ」の達人：寒川一さんが登場<br />　　　　楽しみながら生きるチカラを身につける「アウトドアテクニック」を伝授！ <br />7:35　湘南・三浦・伊豆のダイビングコンディション<br />7:45　湘南・三浦・静岡のウィンドサーフィンコンディション<br />番組ブログ、Facebookページでも最新情報お届け中！<br />twitterアカウントは「<a href=\"http://twitter.com/TheBurn847\">@TheBurn847</a>」<br /><a href=\"http://www.facebook.com/theburn847\">Facebookページ</a>でも最新情報お届け中！<br /><br />メールアドレス：<br /><a href=\"mailto:theburn@fmyokohama.jp\">theburn@fmyokohama.jp</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」"
                 },
-                "info": {},
                 "pfm": {
                   "_text": "井手大介"
                 },
@@ -8495,17 +8547,25 @@
                   "_text": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/omrtjelhmq.png"
                 },
                 "metas": {
-                  "meta": {
-                    "_attributes": {
-                      "name": "twitter",
-                      "value": "#radiko"
+                  "meta": [
+                    {
+                      "_attributes": {
+                        "name": "twitter",
+                        "value": "#fmyokohama"
+                      }
+                    },
+                    {
+                      "_attributes": {
+                        "name": "twitter",
+                        "value": "from:TheBurn847"
+                      }
                     }
-                  }
+                  ]
                 }
               },
               {
                 "_attributes": {
-                  "id": "9488167511",
+                  "id": "9488265309",
                   "master_id": "",
                   "ft": "20190511080000",
                   "to": "20190511083000",
@@ -8517,7 +8577,7 @@
                   "_text": "JA Fresh Market"
                 },
                 "url": {
-                  "_text": "https://www.fmyokohama.co.jp/pc/program/FreshMarket"
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=FreshMarket"
                 },
                 "failed_record": {
                   "_text": "0"
@@ -8528,10 +8588,10 @@
                 "ts_out_ng": {
                   "_text": "0"
                 },
-                "desc": {
-                  "_text": "神奈川エリアの“旬”を求めて各地からのレポート、地元にしかない特産品、イベントや直売所の情報など、季節に彩りを添える話題をお届けします。"
+                "desc": {},
+                "info": {
+                  "_text": "今回は、横浜から。<br />母の日に向けて、スイーツづくりに挑戦します！<br />ご一緒してくださるのは…旬菜ナビから、いっとちゃん！！<br /><br />メールアドレス：<br /><a href=\"mailto:fresh@fmyokohama.jp\">fresh@fmyokohama.jp</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」"
                 },
-                "info": {},
                 "pfm": {
                   "_text": "中西 希"
                 },
@@ -8542,14 +8602,14 @@
                   "meta": {
                     "_attributes": {
                       "name": "twitter",
-                      "value": "#radiko"
+                      "value": "#fmyokohama"
                     }
                   }
                 }
               },
               {
                 "_attributes": {
-                  "id": "9488190159",
+                  "id": "9488265310",
                   "master_id": "",
                   "ft": "20190511083000",
                   "to": "20190511085500",
@@ -8561,7 +8621,7 @@
                   "_text": "KANAGAWA Muffin"
                 },
                 "url": {
-                  "_text": "https://www.fmyokohama.co.jp/pc/program/KanagawaMuffin"
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=KanagawaMuffin"
                 },
                 "failed_record": {
                   "_text": "0"
@@ -8572,10 +8632,10 @@
                 "ts_out_ng": {
                   "_text": "0"
                 },
-                "desc": {
-                  "_text": "色とりどりのマフィンのように、様々な魅力を持つ神奈川県。そんな神奈川の情報を、たっぷりとお届け。"
+                "desc": {},
+                "info": {
+                  "_text": "野生動物たちを救いたい～救護現場最前線<br /><br />メールアドレス：<br /><a href=\"mailto:kanagawa@fmyokohama.jp\">kanagawa@fmyokohama.jp</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」"
                 },
-                "info": {},
                 "pfm": {
                   "_text": "金子 桃"
                 },
@@ -8586,14 +8646,14 @@
                   "meta": {
                     "_attributes": {
                       "name": "twitter",
-                      "value": "#radiko"
+                      "value": "#fmyokohama"
                     }
                   }
                 }
               },
               {
                 "_attributes": {
-                  "id": "9488190160",
+                  "id": "9488265311",
                   "master_id": "",
                   "ft": "20190511085500",
                   "to": "20190511090000",
@@ -8605,7 +8665,7 @@
                   "_text": "NIPPON CHA・茶・CHA"
                 },
                 "url": {
-                  "_text": "https://www.fmyokohama.co.jp/pc/program/NipponChaChaCha"
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=NipponChaChaCha"
                 },
                 "failed_record": {
                   "_text": "0"
@@ -8616,10 +8676,10 @@
                 "ts_out_ng": {
                   "_text": "0"
                 },
-                "desc": {
-                  "_text": "日本茶最前線ともいうべきお茶ニュースや知ってるようで案外知らないお茶トリビアを楽しくお伝えしていきます。"
+                "desc": {},
+                "info": {
+                  "_text": "日本茶アーティスト、茂木雅世がお届けする日本のお茶専門番組♪<br />今週も東京オペラシティアートギャラリーで開催中の「トム・サックス　ティーセレモニー」展をご紹介。<br />トムさんのインタビューもお届けします。<br /><br />メールアドレス：<br /><a href=\"mailto:ocha@fmyokohama.jp\">ocha@fmyokohama.jp</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」"
                 },
-                "info": {},
                 "pfm": {
                   "_text": "茂木雅世"
                 },
@@ -8630,14 +8690,14 @@
                   "meta": {
                     "_attributes": {
                       "name": "twitter",
-                      "value": "#radiko"
+                      "value": "#fmyokohama"
                     }
                   }
                 }
               },
               {
                 "_attributes": {
-                  "id": "9488190161",
+                  "id": "9488265436",
                   "master_id": "",
                   "ft": "20190511090000",
                   "to": "20190511110000",
@@ -8649,7 +8709,7 @@
                   "_text": "FUTURESCAPE"
                 },
                 "url": {
-                  "_text": "https://www.fmyokohama.co.jp/pc/program/Futurescape"
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=Futurescape"
                 },
                 "failed_record": {
                   "_text": "0"
@@ -8660,10 +8720,10 @@
                 "ts_out_ng": {
                   "_text": "0"
                 },
-                "desc": {
-                  "_text": "毎週一つのモノ、コト、ヒトなどをテーマに焦点を当て、リスナーの自由な発想とともに現在(いま)の時代を愉快に探求していく番組。"
+                "desc": {},
+                "info": {
+                  "_text": "みなさんはGWお休みできました？<br />休めた方も、そうでない方も、季節は新緑！<br />リフレッシュして毎日を過ごしていきましょう。<br />と、いうわけで今週のC&Mは「リフレッシュ」<br />9時20分ごろ～<br />【神奈川ダイハツpresentsサウンドブーケ】<br />「皆さんのドライブで聞きたい一曲とドライブコース」を募集中！<br />採用された方には、2000円分の「QUOカード」と<br />「TOCOTオリジナルポーチ」をセットにしてプレゼント。<br />9時30ごろ～<br />京都館館長小山薫堂がおすすめする、東京で楽しめる京都の話<br />10時ごろ～<br />【LANDMARK TOWER presents KALEIDO SCAPE】<br />かもめ児童合唱団のプロデューサー、藤沢宏光さんをお迎えし、<br />地域のリフレッシュについてお話を伺います！<br />twitterアカウントは「<a href=\"http://twitter.com/FUTURESCAPEAD\">@FUTURESCAPEAD</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23futurescape\">#futurescape</a>」<br /><a href=\"http://www.facebook.com/DOASA9JI\">Facebook</a><br /><br />メールアドレス：<br /><a href=\"mailto:future@fmyokohama.jp\">future@fmyokohama.jp</a>"
                 },
-                "info": {},
                 "pfm": {
                   "_text": "小山薫堂 / 柳井麻希"
                 },
@@ -8671,17 +8731,25 @@
                   "_text": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/ig8l5o0zox.png"
                 },
                 "metas": {
-                  "meta": {
-                    "_attributes": {
-                      "name": "twitter",
-                      "value": "#radiko"
+                  "meta": [
+                    {
+                      "_attributes": {
+                        "name": "twitter",
+                        "value": "#futurescape"
+                      }
+                    },
+                    {
+                      "_attributes": {
+                        "name": "twitter",
+                        "value": "from:FUTURESCAPEAD"
+                      }
                     }
-                  }
+                  ]
                 }
               },
               {
                 "_attributes": {
-                  "id": "9488190162",
+                  "id": "9488265313",
                   "master_id": "",
                   "ft": "20190511110000",
                   "to": "20190511130000",
@@ -8693,7 +8761,7 @@
                   "_text": "Travelin' Light"
                 },
                 "url": {
-                  "_text": "https://www.fmyokohama.co.jp/pc/program/TravelinLight"
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=TravelinLight"
                 },
                 "failed_record": {
                   "_text": "0"
@@ -8704,10 +8772,10 @@
                 "ts_out_ng": {
                   "_text": "0"
                 },
-                "desc": {
-                  "_text": "普段より少しゆったりとした時間を、優しい音楽と、豊かなライフ・スタイルのヒントや、ドライブに役立つ情報など、多彩な内容でお送りする。"
+                "desc": {},
+                "info": {
+                  "_text": "11時10分頃：「ALPINE STYLE presents MUSIC TRAVEL」<br />世界各国の音楽を厳選してお届け！ドライブしながら、世界の旅気分を楽しんでください。<br />11時30分頃：「ドライブ」に役立つちょっとしたアイデアをご紹介「横浜トヨペット Daylight Cruising」<br />11時42分頃：「JRA ウィークエンドウェザー（JRA 日本中央競馬会）」<br />12時：タピオカ&クレープ専門店「パールレディ」のイメージガールが母体、アイドルグループの「PLC」が生登場。<br />12時35分頃：コーナーコメンテーターのKARL南澤さんと一緒にお送りする「HITS BOX」～スーパー・プロデューサー「ナラダ・マイケル・ウォルデン特集」！<br /><a href=\"http://www.facebook.com/tl847/ \">番組Facebook</a><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23tl847\">#tl847</a>」<br /><br />メールアドレス：<br /><a href=\"mailto:tl@fmyokohama.jp\">tl@fmyokohama.jp</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」"
                 },
-                "info": {},
                 "pfm": {
                   "_text": "畠山美由紀"
                 },
@@ -8715,17 +8783,25 @@
                   "_text": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/hd7oblg29m.png"
                 },
                 "metas": {
-                  "meta": {
-                    "_attributes": {
-                      "name": "twitter",
-                      "value": "#radiko"
+                  "meta": [
+                    {
+                      "_attributes": {
+                        "name": "twitter",
+                        "value": "#tl847"
+                      }
+                    },
+                    {
+                      "_attributes": {
+                        "name": "twitter",
+                        "value": "#fmyokohama"
+                      }
                     }
-                  }
+                  ]
                 }
               },
               {
                 "_attributes": {
-                  "id": "9488190163",
+                  "id": "9488265314",
                   "master_id": "",
                   "ft": "20190511130000",
                   "to": "20190511155500",
@@ -8737,7 +8813,7 @@
                   "_text": "God Bless Saturday"
                 },
                 "url": {
-                  "_text": "https://www.fmyokohama.co.jp/pc/program/GodBlessSaturday"
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=GodBlessSaturday"
                 },
                 "failed_record": {
                   "_text": "0"
@@ -8748,10 +8824,10 @@
                 "ts_out_ng": {
                   "_text": "0"
                 },
-                "desc": {
-                  "_text": "毎週素敵なゲストをお迎えして、あなたの週末を応援！ときにはあなたの街にも公開放送でお邪魔します！"
+                "desc": {},
+                "info": {
+                  "_text": "今週もゴブサタは公開生放送！<br />横浜コットンハーバーボートヤードからお届け！<br />メールテーマは「ミラクルな体験！」<br />あなたに起こったミラクルな体験を教えてください！<br />一番印象に残ったメールにはサイン入りステッカーをプレゼント！<br />リポーターが絶品グルメをリポート！<br />ゲストは２２７、ひろたあきらさん、TiAさん！<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%B4%E3%83%96%E3%82%B5%E3%82%BF\">#ゴブサタ</a>」<br /><br />メールアドレス：<br /><a href=\"mailto:gbs@fmyokohama.jp\">gbs@fmyokohama.jp</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」"
                 },
-                "info": {},
                 "pfm": {
                   "_text": "じゅんご / ほのか"
                 },
@@ -8759,17 +8835,25 @@
                   "_text": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/yabxbewiat.jpg"
                 },
                 "metas": {
-                  "meta": {
-                    "_attributes": {
-                      "name": "twitter",
-                      "value": "#radiko"
+                  "meta": [
+                    {
+                      "_attributes": {
+                        "name": "twitter",
+                        "value": "#ゴブサタ"
+                      }
+                    },
+                    {
+                      "_attributes": {
+                        "name": "twitter",
+                        "value": "#fmyokohama"
+                      }
                     }
-                  }
+                  ]
                 }
               },
               {
                 "_attributes": {
-                  "id": "9488167517",
+                  "id": "9488265315",
                   "master_id": "",
                   "ft": "20190511155500",
                   "to": "20190511160000",
@@ -8781,7 +8865,7 @@
                   "_text": "鎌倉まめタリアーナ"
                 },
                 "url": {
-                  "_text": "https://www.fmyokohama.co.jp/pc/program/KamakuraMametaliana"
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=KamakuraMametaliana"
                 },
                 "failed_record": {
                   "_text": "0"
@@ -8792,10 +8876,10 @@
                 "ts_out_ng": {
                   "_text": "0"
                 },
-                "desc": {
-                  "_text": "ラジオと番組ブログを通して、皆さんに鎌倉の味と爽やかな風をお届けします！"
+                "desc": {},
+                "info": {
+                  "_text": "影山のぞみが、豆や鎌倉野菜を使った料理をご紹介。番組とブログを通して、皆さんに鎌倉の味と爽やかな風をお届けします！皆さんからもオススメの豆料理、野菜料理のレシピをお待ちしています！<br /><br />メールアドレス：<br /><a href=\"mailto:mame@fmyokohama.jp\">mame@fmyokohama.jp</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」"
                 },
-                "info": {},
                 "pfm": {
                   "_text": "影山のぞみ"
                 },
@@ -8806,14 +8890,14 @@
                   "meta": {
                     "_attributes": {
                       "name": "twitter",
-                      "value": "#radiko"
+                      "value": "#fmyokohama"
                     }
                   }
                 }
               },
               {
                 "_attributes": {
-                  "id": "9488190164",
+                  "id": "9488265316",
                   "master_id": "",
                   "ft": "20190511160000",
                   "to": "20190511183000",
@@ -8825,7 +8909,7 @@
                   "_text": "Route 847"
                 },
                 "url": {
-                  "_text": "https://www.fmyokohama.co.jp/pc/program/Route847"
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=Route847"
                 },
                 "failed_record": {
                   "_text": "0"
@@ -8836,10 +8920,10 @@
                 "ts_out_ng": {
                   "_text": "0"
                 },
-                "desc": {
-                  "_text": "ライブ、FLASHBACK MIX、ワンちゃん、ジョギング&MUSICなどウィークエンドのライフスタイルを豊かにします。"
+                "desc": {},
+                "info": {
+                  "_text": "16:16   Martin Guitar presents  MAKOTONE ～It's a beautiful day～<br />斎藤誠とゲストの藤原ヒロシがセッション<br />16:41   JOG STATION　 ランニングパートナー福島和可菜、北海道から電話出演！<br />17:03   JVC KENWOOD presents  Sai-Soku Drivin’  FLASHBACK MIX<br />フラワーソングミックス<br />17:16   JVC KENWOOD presents  Sai-Soku Drivin’  Passengers Seat ～美女とサトル～　井口綾子とドライブデート<br />17:41   ハマポチ　  動物看護師　三橋有紗がワンちゃんのお悩みにアドバイス！<br />18:03   Music & Turf　     黒田カントリークラブのLPGA優勝者予想<br />新しくなった、彩速ナビステッカーをプレゼント<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23Route847\">#Route847</a>」<br /><br />メールアドレス：<br /><a href=\"mailto:r847@fmyokohama.jp\">r847@fmyokohama.jp</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」"
                 },
-                "info": {},
                 "pfm": {
                   "_text": "柴田 聡"
                 },
@@ -8847,17 +8931,25 @@
                   "_text": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/s6c45kliue.png"
                 },
                 "metas": {
-                  "meta": {
-                    "_attributes": {
-                      "name": "twitter",
-                      "value": "#radiko"
+                  "meta": [
+                    {
+                      "_attributes": {
+                        "name": "twitter",
+                        "value": "#Route847"
+                      }
+                    },
+                    {
+                      "_attributes": {
+                        "name": "twitter",
+                        "value": "#fmyokohama"
+                      }
                     }
-                  }
+                  ]
                 }
               },
               {
                 "_attributes": {
-                  "id": "9488167519",
+                  "id": "9488265317",
                   "master_id": "",
                   "ft": "20190511183000",
                   "to": "20190511184500",
@@ -8866,10 +8958,10 @@
                   "dur": "900"
                 },
                 "title": {
-                  "_text": "PG2 presents Keep on Smile"
+                  "_text": "PG2 presents Keep on Smile "
                 },
                 "url": {
-                  "_text": "https://www.fmyokohama.co.jp/pc/program/KeepOnSmile"
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=KeepOnSmile"
                 },
                 "failed_record": {
                   "_text": "0"
@@ -8880,10 +8972,10 @@
                 "ts_out_ng": {
                   "_text": "0"
                 },
-                "desc": {
-                  "_text": "いつまでも美しくありたい！女性の永遠のテーマです。キレイで居続けるために大切なのは、やっぱり笑顔。番組DJのさとう珠緖が、マンスリーゲストを迎え女性の美を追求します。"
+                "desc": {},
+                "info": {
+                  "_text": "いつまでも美しくありたい！女性の永遠のテーマです。キレイで居続けるために大切なのは、やっぱり笑顔。<br />番組DJのさとう珠緖が、マンスリーゲストを迎え女性の美を追求します。<br /><br />メールアドレス：<br /><a href=\"mailto:tamao@fmyokohama.jp\">tamao@fmyokohama.jp</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」"
                 },
-                "info": {},
                 "pfm": {
                   "_text": "さとう珠緖"
                 },
@@ -8894,14 +8986,14 @@
                   "meta": {
                     "_attributes": {
                       "name": "twitter",
-                      "value": "#radiko"
+                      "value": "#fmyokohama"
                     }
                   }
                 }
               },
               {
                 "_attributes": {
-                  "id": "9488190165",
+                  "id": "9488265318",
                   "master_id": "",
                   "ft": "20190511184500",
                   "to": "20190511190000",
@@ -8913,7 +9005,7 @@
                   "_text": "Piano Winery ～響きのクラシック～"
                 },
                 "url": {
-                  "_text": "https://www.fmyokohama.co.jp/pc/program/PianoWinery"
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=PianoWinery"
                 },
                 "failed_record": {
                   "_text": "0"
@@ -8924,10 +9016,10 @@
                 "ts_out_ng": {
                   "_text": "0"
                 },
-                "desc": {
-                  "_text": "ピアニスト・樋口あゆ子が語るクラシック音楽と地球に優しいLifestyle。音楽・水・自然をテーマに、心に響くひと時をお送りします。"
+                "desc": {},
+                "info": {
+                  "_text": "ゲストはピアノ調律師　高木裕<br />萩谷康一のフルートレッスン<br /><br />メールアドレス：<br /><a href=\"mailto:piano@fmyokohama.jp\">piano@fmyokohama.jp</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」"
                 },
-                "info": {},
                 "pfm": {
                   "_text": "樋口あゆ子"
                 },
@@ -8938,14 +9030,14 @@
                   "meta": {
                     "_attributes": {
                       "name": "twitter",
-                      "value": "#radiko"
+                      "value": "#fmyokohama"
                     }
                   }
                 }
               },
               {
                 "_attributes": {
-                  "id": "9488190166",
+                  "id": "9488265319",
                   "master_id": "",
                   "ft": "20190511190000",
                   "to": "20190511193000",
@@ -8957,7 +9049,7 @@
                   "_text": "ジャパンニューアルファグループ presents KANAGAWA HAPPY TOWN"
                 },
                 "url": {
-                  "_text": "https://www.fmyokohama.co.jp/pc/program/KanagawaHappyTown"
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=KanagawaHappyTown"
                 },
                 "failed_record": {
                   "_text": "0"
@@ -8968,10 +9060,10 @@
                 "ts_out_ng": {
                   "_text": "0"
                 },
-                "desc": {
-                  "_text": "神奈川の魅力を、人気の漫才師「囲碁将棋」が街を歩きながら、お店や商店街、公園などで出会う人々にインタビュー！街の魅力をお伝えします！"
+                "desc": {},
+                "info": {
+                  "_text": "神奈川の魅力を、地元神奈川出身の人気漫才師「囲碁将棋」が街を歩きながら、お店や商店街、公園などで出会う人々にインタビュー！スタジオからは、同じく神奈川出身の吉村民が二人のロケにツッコミ！<br /><br />メールアドレス：<br /><a href=\"mailto:happy@fmyokohama.jp\">happy@fmyokohama.jp</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」"
                 },
-                "info": {},
                 "pfm": {
                   "_text": "囲碁将棋 / 吉村 民"
                 },
@@ -8982,14 +9074,14 @@
                   "meta": {
                     "_attributes": {
                       "name": "twitter",
-                      "value": "#radiko"
+                      "value": "#fmyokohama"
                     }
                   }
                 }
               },
               {
                 "_attributes": {
-                  "id": "9488190167",
+                  "id": "9488265320",
                   "master_id": "",
                   "ft": "20190511193000",
                   "to": "20190511200000",
@@ -9001,7 +9093,7 @@
                   "_text": "Come On！カモン！カモン！"
                 },
                 "url": {
-                  "_text": "https://www.fmyokohama.co.jp/pc/program/ComeOnComeOnComeOn"
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=ComeOnComeOnComeOn"
                 },
                 "failed_record": {
                   "_text": "0"
@@ -9012,12 +9104,12 @@
                 "ts_out_ng": {
                   "_text": "0"
                 },
-                "desc": {
-                  "_text": "シンガーソングライター「嘉門タツオ」の独自の世界が遂にFMヨコハマで展開！！"
+                "desc": {},
+                "info": {
+                  "_text": "嘉門タツオならではのバラエティーに富んだ番組をお届けします。<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23atakowa\">#atakowa</a>」<br /><br />メールアドレス：<br /><a href=\"mailto:ccc@fmyokohama.jp\">ccc@fmyokohama.jp</a>"
                 },
-                "info": {},
                 "pfm": {
-                  "_text": "嘉門タツオ"
+                  "_text": "嘉門達夫"
                 },
                 "img": {
                   "_text": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/c2uj8dr2f8.png"
@@ -9026,14 +9118,14 @@
                   "meta": {
                     "_attributes": {
                       "name": "twitter",
-                      "value": "#radiko"
+                      "value": "#atakowa"
                     }
                   }
                 }
               },
               {
                 "_attributes": {
-                  "id": "9488190168",
+                  "id": "9488265321",
                   "master_id": "",
                   "ft": "20190511200000",
                   "to": "20190511203000",
@@ -9045,7 +9137,7 @@
                   "_text": "THE MOTOR WEEKLY"
                 },
                 "url": {
-                  "_text": "https://www.fmyokohama.co.jp/pc/program/TheMotorWeekly"
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=TheMotorWeekly"
                 },
                 "failed_record": {
                   "_text": "0"
@@ -9056,10 +9148,10 @@
                 "ts_out_ng": {
                   "_text": "0"
                 },
-                "desc": {
-                  "_text": "自動車情報バラエティ。「クルマ好きのパラダイス！」を合言葉に気になる自動車情報を楽しいトークで繰り広げています。"
+                "desc": {},
+                "info": {
+                  "_text": "気になる輸入車・国産車の新車情報を中心に、クルマにまつわる色々な情報をお届けする30分。<br /><br />メールアドレス：<br /><a href=\"mailto:tm@fmyokohama.jp\">tm@fmyokohama.jp</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」"
                 },
-                "info": {},
                 "pfm": {
                   "_text": "藤本えみり"
                 },
@@ -9070,14 +9162,14 @@
                   "meta": {
                     "_attributes": {
                       "name": "twitter",
-                      "value": "#radiko"
+                      "value": "#fmyokohama"
                     }
                   }
                 }
               },
               {
                 "_attributes": {
-                  "id": "9488190169",
+                  "id": "9488265322",
                   "master_id": "",
                   "ft": "20190511203000",
                   "to": "20190511210000",
@@ -9089,7 +9181,7 @@
                   "_text": "Startline"
                 },
                 "url": {
-                  "_text": "https://www.fmyokohama.co.jp/pc/program/Startline"
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=Startline"
                 },
                 "failed_record": {
                   "_text": "0"
@@ -9100,12 +9192,12 @@
                 "ts_out_ng": {
                   "_text": "0"
                 },
-                "desc": {
-                  "_text": "アナタのこの先の未来へのスタートラインに立つきっかけをつかんでもらうのがこの番組。"
+                "desc": {},
+                "info": {
+                  "_text": "アナタのこの先の未来へのスタートラインに立つきっかけをつかんでもらうのがこの番組。<br /><br />メールアドレス：<br /><a href=\"mailto:start@fmyokohama.jp\">start@fmyokohama.jp</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」"
                 },
-                "info": {},
                 "pfm": {
-                  "_text": "坂詰美紗子 / 中村豪（やるせなす）"
+                  "_text": "坂詰美紗子 / 中村 豪（やるせなす）"
                 },
                 "img": {
                   "_text": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/rsa8xkxq3p.jpg"
@@ -9114,14 +9206,14 @@
                   "meta": {
                     "_attributes": {
                       "name": "twitter",
-                      "value": "#radiko"
+                      "value": "#fmyokohama"
                     }
                   }
                 }
               },
               {
                 "_attributes": {
-                  "id": "9488190170",
+                  "id": "9488265323",
                   "master_id": "",
                   "ft": "20190511210000",
                   "to": "20190511213000",
@@ -9133,7 +9225,7 @@
                   "_text": "ヨコハマウォーカーラジオ"
                 },
                 "url": {
-                  "_text": "https://www.fmyokohama.co.jp/pc/program/YokohamaWalkerRadio"
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=YokohamaWalkerRadio"
                 },
                 "failed_record": {
                   "_text": "0"
@@ -9144,10 +9236,10 @@
                 "ts_out_ng": {
                   "_text": "0"
                 },
-                "desc": {
-                  "_text": "YokohamaWalkerからの旬な情報や地元神奈川の情報をお届けします。"
+                "desc": {},
+                "info": {
+                  "_text": "YokohamaWalkerからの旬な情報や地元神奈川の情報をお届けします。<br /><br />メールアドレス：<br /><a href=\"mailto:ywr@fmyokohama.jp\">ywr@fmyokohama.jp</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」"
                 },
-                "info": {},
                 "pfm": {
                   "_text": "穂積ユタカ"
                 },
@@ -9158,14 +9250,14 @@
                   "meta": {
                     "_attributes": {
                       "name": "twitter",
-                      "value": "#radiko"
+                      "value": "#fmyokohama"
                     }
                   }
                 }
               },
               {
                 "_attributes": {
-                  "id": "9488190171",
+                  "id": "9488265324",
                   "master_id": "",
                   "ft": "20190511213000",
                   "to": "20190511220000",
@@ -9177,7 +9269,7 @@
                   "_text": "上手投げ！！！ラジオ"
                 },
                 "url": {
-                  "_text": "https://www.fmyokohama.co.jp/pc/program/UwatenageRadio"
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=UwatenageRadio"
                 },
                 "failed_record": {
                   "_text": "0"
@@ -9188,10 +9280,10 @@
                 "ts_out_ng": {
                   "_text": "0"
                 },
-                "desc": {
-                  "_text": "いきものがかり、ギター・ハープ担当の山下穂尊、人生初のレギュラー番組。彼の幅広い知識と好奇心、趣味の分野を活かしたコーナーや人生相談、ゲストトークなど、様々な企画を展開していきます。"
+                "desc": {},
+                "info": {
+                  "_text": "幅広い知識と好奇心、趣味の分野を活かしたコーナーや、人生相談、ゲストトークなど、様々な企画を展開していきます。<br /><br />メールアドレス：<br /><a href=\"mailto:htk@fmyokohama.jp\">htk@fmyokohama.jp</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」"
                 },
-                "info": {},
                 "pfm": {
                   "_text": "山下穂尊（いきものがかり）"
                 },
@@ -9202,14 +9294,14 @@
                   "meta": {
                     "_attributes": {
                       "name": "twitter",
-                      "value": "#radiko"
+                      "value": "#fmyokohama"
                     }
                   }
                 }
               },
               {
                 "_attributes": {
-                  "id": "9488190172",
+                  "id": "9488265325",
                   "master_id": "",
                   "ft": "20190511220000",
                   "to": "20190511223000",
@@ -9221,7 +9313,7 @@
                   "_text": "eyes on me"
                 },
                 "url": {
-                  "_text": "https://www.fmyokohama.co.jp/pc/program/eyesonme"
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=eyesonme"
                 },
                 "failed_record": {
                   "_text": "0"
@@ -9232,10 +9324,10 @@
                 "ts_out_ng": {
                   "_text": "0"
                 },
-                "desc": {
-                  "_text": "99年のデビュー以来、様々なジャンルの音楽に挑戦してきた彼女だからこそ伝えられる良質な音楽とカルチャー。"
+                "desc": {},
+                "info": {
+                  "_text": "1999年のデビュー以来、様々なジャンルの音楽に挑戦してきた彼女だからこそ伝えられる良質な音楽とカルチャー。<br /><br />メールアドレス：<br /><a href=\"mailto:hitomi@fmyokohama.jp\">hitomi@fmyokohama.jp</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」"
                 },
-                "info": {},
                 "pfm": {
                   "_text": "島谷ひとみ"
                 },
@@ -9246,14 +9338,14 @@
                   "meta": {
                     "_attributes": {
                       "name": "twitter",
-                      "value": "#radiko"
+                      "value": "#fmyokohama"
                     }
                   }
                 }
               },
               {
                 "_attributes": {
-                  "id": "9488167528",
+                  "id": "9488265326",
                   "master_id": "",
                   "ft": "20190511223000",
                   "to": "20190511230000",
@@ -9265,7 +9357,7 @@
                   "_text": "Adult Nostalgic Radioshow ～ANR大人の秘密基地～"
                 },
                 "url": {
-                  "_text": "https://www.fmyokohama.co.jp/pc/program/AdultNostalgicRadioshow"
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=AdultNostalgicRadioshow"
                 },
                 "failed_record": {
                   "_text": "0"
@@ -9276,10 +9368,10 @@
                 "ts_out_ng": {
                   "_text": "0"
                 },
-                "desc": {
-                  "_text": "大好きなリズム＆ブルースの紹介から、こだわりのアメリカンマッスルカーや地元本牧の話まで、オトナなテーマでトークを展開。"
+                "desc": {},
+                "info": {
+                  "_text": "矢沢永吉特集<br />クラシックカー話<br /><br />メールアドレス：<br /><a href=\"mailto:ikura@fmyokohama.jp\">ikura@fmyokohama.jp</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」"
                 },
-                "info": {},
                 "pfm": {
                   "_text": "IKURA"
                 },
@@ -9290,14 +9382,14 @@
                   "meta": {
                     "_attributes": {
                       "name": "twitter",
-                      "value": "#radiko"
+                      "value": "#fmyokohama"
                     }
                   }
                 }
               },
               {
                 "_attributes": {
-                  "id": "9488190173",
+                  "id": "9488265327",
                   "master_id": "",
                   "ft": "20190511230000",
                   "to": "20190512000000",
@@ -9309,7 +9401,7 @@
                   "_text": "HONMOKU RED HOT STREET"
                 },
                 "url": {
-                  "_text": "https://www.fmyokohama.co.jp/pc/program/HonmokuRedHotStreet"
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=HonmokuRedHotStreet"
                 },
                 "failed_record": {
                   "_text": "0"
@@ -9320,10 +9412,10 @@
                 "ts_out_ng": {
                   "_text": "0"
                 },
-                "desc": {
-                  "_text": "CKBを率いる横山剣が、レッドホットな日常をレッドホットな音楽に載せて発信する究極の地元密着型ラヂオ・ショウ！"
+                "desc": {},
+                "info": {
+                  "_text": "レッドホットでラテンでソウルでレゲエでヒップホップ・・・<br />週末の夜がさらにさらに熱く燃え上がる「HONMOKU RED HOT STREET」。<br />今週もCKとテツニのふたりがソウル電波ビリビリの楽曲をオンエア！<br />「1990年」に想いをはせます。<br />CHIBOW&新宮虎児のコーナー「ルーツロック100選」、<br />本牧のふたり組「日東色素」のシブい選曲も必聴です。<br /><br />メールアドレス：<br /><a href=\"mailto:045046@fmyokohama.jp\">045046@fmyokohama.jp</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」"
                 },
-                "info": {},
                 "pfm": {
                   "_text": "クレイジーケンバンド"
                 },
@@ -9334,14 +9426,14 @@
                   "meta": {
                     "_attributes": {
                       "name": "twitter",
-                      "value": "#radiko"
+                      "value": "#fmyokohama"
                     }
                   }
                 }
               },
               {
                 "_attributes": {
-                  "id": "9488214681",
+                  "id": "9488265437",
                   "master_id": "",
                   "ft": "20190512000000",
                   "to": "20190512010000",
@@ -9353,7 +9445,7 @@
                   "_text": "Bayside Reggae Lounge"
                 },
                 "url": {
-                  "_text": "https://www.fmyokohama.co.jp/pc/program/BaysideReggaeLounge2"
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=BaysideReggaeLounge2"
                 },
                 "failed_record": {
                   "_text": "0"
@@ -9364,28 +9456,36 @@
                 "ts_out_ng": {
                   "_text": "0"
                 },
-                "desc": {
-                  "_text": "リアルなレゲエ・ミュージックと、リアルなライフ・ストーリーがここにある！国内随一のレゲエ専門プログラム。"
+                "desc": {},
+                "info": {
+                  "_text": "横浜からMIGHTY CROWN FAMILYが世界視点で発信！<br />No.1レゲエミュージック専門プログラムBRL！<br />番組１５周年特別トークセッションスタート！<br />『改めまして、Mighty Crownと申します』<br />第１回は、Chapter 1 ＜Who is Mighty Crown ? 前編＞。<br />”Mighty Crownを知らない世代代表”として、<br />＜BiSH/アイナ・ジ・エンド＞が参戦！<br />BRL SNS 絶賛展開中！共通ハッシュタグ＜#baysidereggaelounge＞<br />twitterアカウントは「<a href=\"http://twitter.com/BRL_info\">@BRL_info</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23baysidereggaelounge\">#baysidereggaelounge</a>」<br />Instagram　→<a href=\"https://www.instagram.com/baysidereggaelounge/\">https://www.instagram.com/baysidereggaelounge/</a><br />Facebook   →<a href=\"https://www.facebook.com/baysidereggaelounge\">https://www.facebook.com/baysidereggaelounge</a><br />Official Web →<a href=\"https://www.fmyokohama.jp/brl/\">https://www.fmyokohama.jp/brl/</a><br /><br />メールアドレス：<br /><a href=\"mailto:brl@fmyokohama.jp\">brl@fmyokohama.jp</a>"
                 },
-                "info": {},
                 "pfm": {
-                  "_text": "THE MIGHTY CROWN FAMILY / DJ BANA"
+                  "_text": "MIGHTY CROWN / FIRE BALL / DJ BANA"
                 },
                 "img": {
                   "_text": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/ffde1fa4-0ba5-4d78-85e6-ed7aa3c98515.jpeg"
                 },
                 "metas": {
-                  "meta": {
-                    "_attributes": {
-                      "name": "twitter",
-                      "value": "#radiko"
+                  "meta": [
+                    {
+                      "_attributes": {
+                        "name": "twitter",
+                        "value": "#baysidereggaelounge"
+                      }
+                    },
+                    {
+                      "_attributes": {
+                        "name": "twitter",
+                        "value": "from:BRL_info"
+                      }
                     }
-                  }
+                  ]
                 }
               },
               {
                 "_attributes": {
-                  "id": "9488202891",
+                  "id": "9488265329",
                   "master_id": "",
                   "ft": "20190512010000",
                   "to": "20190512013000",
@@ -9397,7 +9497,7 @@
                   "_text": "BANG BANG BANG！"
                 },
                 "url": {
-                  "_text": "https://www.fmyokohama.co.jp/pc/program/BangBangBang"
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=BangBangBang"
                 },
                 "failed_record": {
                   "_text": "0"
@@ -9408,10 +9508,10 @@
                 "ts_out_ng": {
                   "_text": "0"
                 },
-                "desc": {
-                  "_text": "俳優、加藤雅也が独自の視線で様々な物事を切り取ります！"
+                "desc": {},
+                "info": {
+                  "_text": "俳優、加藤雅也が独自の視線で様々な物事を切り取ります！<br /><br />メールアドレス：<br /><a href=\"mailto:masaya@fmyokohama.jp\">masaya@fmyokohama.jp</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」"
                 },
-                "info": {},
                 "pfm": {
                   "_text": "加藤雅也"
                 },
@@ -9422,14 +9522,14 @@
                   "meta": {
                     "_attributes": {
                       "name": "twitter",
-                      "value": "#radiko"
+                      "value": "#fmyokohama"
                     }
                   }
                 }
               },
               {
                 "_attributes": {
-                  "id": "9488167532",
+                  "id": "9488265330",
                   "master_id": "",
                   "ft": "20190512013000",
                   "to": "20190512020000",
@@ -9441,7 +9541,7 @@
                   "_text": "JOY TO THE WORLD"
                 },
                 "url": {
-                  "_text": "https://www.fmyokohama.co.jp/pc/program/JoyToTheWorld"
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=JoyToTheWorld"
                 },
                 "failed_record": {
                   "_text": "0"
@@ -9452,10 +9552,10 @@
                 "ts_out_ng": {
                   "_text": "0"
                 },
-                "desc": {
-                  "_text": "医者ならではの視点からのお悩み相談、音楽、鉄道など土曜の夜にぴったりのディープな30分をお届けします。"
+                "desc": {},
+                "info": {
+                  "_text": "医者ならではの視点からのお悩み相談、音楽、鉄道など土曜の夜にぴったりのディープな30分をお届けします。女医とjoyなひと時を！<br /><br />メールアドレス：<br /><a href=\"mailto:joy@fmyokohama.jp\">joy@fmyokohama.jp</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」"
                 },
-                "info": {},
                 "pfm": {
                   "_text": "木村至信"
                 },
@@ -9466,14 +9566,14 @@
                   "meta": {
                     "_attributes": {
                       "name": "twitter",
-                      "value": "#radiko"
+                      "value": "#fmyokohama"
                     }
                   }
                 }
               },
               {
                 "_attributes": {
-                  "id": "9488202892",
+                  "id": "9488265331",
                   "master_id": "",
                   "ft": "20190512020000",
                   "to": "20190512023000",
@@ -9485,7 +9585,7 @@
                   "_text": "ハーモニカミッドナイト"
                 },
                 "url": {
-                  "_text": "https://www.fmyokohama.co.jp/pc/program/HarmonicaMidnight"
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=HarmonicaMidnight"
                 },
                 "failed_record": {
                   "_text": "0"
@@ -9496,10 +9596,10 @@
                 "ts_out_ng": {
                   "_text": "0"
                 },
-                "desc": {
-                  "_text": "吉祥寺ハーモニカ横丁「あんちゃん」がジャズをレコードでお届けする深夜番組。レトロ好き、昭和好き、レコード好きの方々、ご来店をお待ちしています。"
+                "desc": {},
+                "info": {
+                  "_text": "吉祥寺ハーモニカ横丁「あんちゃん」がジャズをレコードでお届けする深夜番組。レトロ好き、昭和好き、レコード好きの方々、ご来店をお待ちしています。<br /><br />メールアドレス：<br /><a href=\"mailto:anchan@fmyokohama.jp\">anchan@fmyokohama.jp</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」"
                 },
-                "info": {},
                 "pfm": {
                   "_text": "あんちゃん"
                 },
@@ -9510,14 +9610,14 @@
                   "meta": {
                     "_attributes": {
                       "name": "twitter",
-                      "value": "#radiko"
+                      "value": "#fmyokohama"
                     }
                   }
                 }
               },
               {
                 "_attributes": {
-                  "id": "9488214682",
+                  "id": "9488265332",
                   "master_id": "",
                   "ft": "20190512023000",
                   "to": "20190512043000",
@@ -9529,7 +9629,7 @@
                   "_text": "Radio HITS Radio"
                 },
                 "url": {
-                  "_text": "https://www.fmyokohama.co.jp/pc/program/RadioHitsRadio"
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=RadioHitsRadio"
                 },
                 "failed_record": {
                   "_text": "0"
@@ -9540,10 +9640,10 @@
                 "ts_out_ng": {
                   "_text": "0"
                 },
-                "desc": {
-                  "_text": "世界に眠っているアーティストにとってのアジアの登竜門となるラジオ番組作りたい！！！そんな思いを実現化した番組！"
+                "desc": {},
+                "info": {
+                  "_text": "NU'ESTのアルバム特集<br />twitterアカウントは「<a href=\"http://twitter.com/RHR_Fyoko\">@RHR_Fyoko</a>」<br /><br />メールアドレス：<br /><a href=\"mailto:snu@fmyokohama.jp\">snu@fmyokohama.jp</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」"
                 },
-                "info": {},
                 "pfm": {
                   "_text": "今泉圭姫子"
                 },
@@ -9551,17 +9651,25 @@
                   "_text": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/rgnavw0kk9.jpg"
                 },
                 "metas": {
-                  "meta": {
-                    "_attributes": {
-                      "name": "twitter",
-                      "value": "#radiko"
+                  "meta": [
+                    {
+                      "_attributes": {
+                        "name": "twitter",
+                        "value": "#fmyokohama"
+                      }
+                    },
+                    {
+                      "_attributes": {
+                        "name": "twitter",
+                        "value": "from:RHR_Fyoko"
+                      }
                     }
-                  }
+                  ]
                 }
               },
               {
                 "_attributes": {
-                  "id": "9488214683",
+                  "id": "9488265333",
                   "master_id": "",
                   "ft": "20190512043000",
                   "to": "20190512050000",
@@ -9573,7 +9681,7 @@
                   "_text": "Sound Ocean"
                 },
                 "url": {
-                  "_text": "https://www.fmyokohama.co.jp/pc/program/SoundOcean"
+                  "_text": "https://www.fmyokohama.co.jp/ct/rd.php?p=SoundOcean"
                 },
                 "failed_record": {
                   "_text": "0"
@@ -9584,10 +9692,10 @@
                 "ts_out_ng": {
                   "_text": "0"
                 },
-                "desc": {
-                  "_text": "洋楽、邦楽、新旧問わず、テーマに沿った選曲をノンストップでお送りします！"
+                "desc": {},
+                "info": {
+                  "_text": "JAZZなどの名曲をノンストップで♪<br />１日が始まる方にも、これからお休みの方にも、最適なBGMを”ラジオ”からお届けします！<br />番組オフィシャルツイッターも展開中！<br /> Twitterアカウントは「@H2O_fmyokohama」<br /><br />メールアドレス：<br /><a href=\"mailto:ocean@fmyokohama.jp\">ocean@fmyokohama.jp</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」"
                 },
-                "info": {},
                 "pfm": {},
                 "img": {
                   "_text": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/fqhfs1coyp.png"
@@ -9596,7 +9704,7 @@
                   "meta": {
                     "_attributes": {
                       "name": "twitter",
-                      "value": "#radiko"
+                      "value": "#fmyokohama"
                     }
                   }
                 }

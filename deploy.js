@@ -1,19 +1,24 @@
 const fs = require("fs");
-const GithubPages = require("github-pages");
-const config = require("./package.json")["github-pages"];
+const ghpages = require("gh-pages");
 
 fs.writeFileSync("./dist/CNAME", "radiko-bangumi-json.mmf.moe", {
   encoding: "utf-8"
 });
 
-const pages = new GithubPages(config);
-pages
-  .publish()
-  .then(res => {
-    console.log("published");
-    console.log(JSON.stringify(res, null, 2));
-  })
-  .catch(err => {
-    console.error("error while publishing!");
-    console.error(JSON.stringify(err, null, 2));
-  });
+ghpages.publish(
+  "dist",
+  {
+    repo: `https://${
+      process.env.GH_TOKEN
+    }@github.com/mmf-moe/radiko-bangumi-json.git`,
+    silent: true,
+    message: "Update triggered automatically.",
+    user: {
+      name: "Yesterday17",
+      email: "t@yesterday17.cn"
+    }
+  },
+  err => {
+    console.error(err);
+  }
+);

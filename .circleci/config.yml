@@ -33,7 +33,7 @@ workflows:
   nightly:
     triggers:
       - schedule:
-          cron: "0 13 * * *"
+          cron: "0 14 * * *"
           filters:
             branches:
               only: master

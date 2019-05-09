@@ -4,7 +4,7 @@
       "_text": "1800"
     },
     "srvtime": {
-      "_text": "1557407555"
+      "_text": "1557409366"
     },
     "stations": {
       "station": {
@@ -10205,13 +10205,13 @@
               },
               {
                 "_attributes": {
-                  "id": "9488141132",
+                  "id": "9488266135",
                   "master_id": "",
                   "ft": "20190509210000",
-                  "to": "20190509213000",
+                  "to": "20190509220000",
                   "ftl": "2100",
-                  "tol": "2130",
-                  "dur": "1800"
+                  "tol": "2200",
+                  "dur": "3600"
                 },
                 "title": {
                   "_text": "文化放送ライオンズナイター 21時"
@@ -10255,12 +10255,62 @@
               },
               {
                 "_attributes": {
-                  "id": "9488162555",
+                  "id": "9488266177",
                   "master_id": "",
-                  "ft": "20190509213000",
-                  "to": "20190509220000",
-                  "ftl": "2130",
-                  "tol": "2200",
+                  "ft": "20190509220000",
+                  "to": "20190509222000",
+                  "ftl": "2200",
+                  "tol": "2220",
+                  "dur": "1200"
+                },
+                "title": {
+                  "_text": "文化放送ライオンズナイター 22時"
+                },
+                "url": {
+                  "_text": "http://www.lionsnighter.com/"
+                },
+                "failed_record": {
+                  "_text": "0"
+                },
+                "ts_in_ng": {
+                  "_text": "0"
+                },
+                "ts_out_ng": {
+                  "_text": "0"
+                },
+                "desc": {},
+                "info": {
+                  "_text": "<img src='http://www.joqr.co.jp/programs/images/20170609190424-ueuN4.jpg' style=\"max-width: 200px;\"> <br /><br /><br />西武 × ロッテ<br />(県営大宮)<br />解説:松沼雅之<br />実況:長谷川太<br /><br />※日本ハム × オリックス<br />(札幌D)<br />解説:建山義紀<br />実況:山内要一(HBC)<br /><br /><br />番組メールアドレス：<br /><a href=\"mailto:lions@joqr.net\">lions@joqr.net</a><br />番組Webページ：<br /><a href=\"http://www.lionsnighter.com/\">http://www.lionsnighter.com/</a><br /><br />平日夜は今年も『文化放送ライオンズナイター』。<br />個性豊かな解説者・実況アナウンサーが、熱く詳しくお伝えします。<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23joqrlions\">#joqrlions</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/joqrlions\">@joqrlions</a>」<br />facebookページは「<a href='http://www.facebook.com/1134joqr'>http://www.facebook.com/1134joqr</a>」<br />"
+                },
+                "pfm": {},
+                "img": {
+                  "_text": "https://radiko.jp/res/program/DEFAULT_IMAGE/QRR/xy0k4pdu0a.png"
+                },
+                "metas": {
+                  "meta": [
+                    {
+                      "_attributes": {
+                        "name": "twitter",
+                        "value": "#joqrlions"
+                      }
+                    },
+                    {
+                      "_attributes": {
+                        "name": "twitter",
+                        "value": "from:joqrlions"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "_attributes": {
+                  "id": "9488266178",
+                  "master_id": "",
+                  "ft": "20190509222000",
+                  "to": "20190509225000",
+                  "ftl": "2220",
+                  "tol": "2250",
                   "dur": "1800"
                 },
                 "title": {
@@ -10278,7 +10328,7 @@
                 },
                 "desc": {},
                 "info": {
-                  "_text": "<img src='http://www.joqr.co.jp/programs/images/20171224123009-onNKa.jpg' style=\"max-width: 200px;\"> <br /><br />※ナイター中継延長により放送時間、番組内容が変更になる場合があります。ご了承ください。<br /><br />番組メールアドレス：<br /><a href=\"mailto:yukarin@joqr.net\">yukarin@joqr.net</a><br /><br /><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E4%B9%99%E5%A5%B3%E3%83%A2%E3%83%BC%E3%83%89\">#乙女モード</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/joqrpr\">@joqrpr</a>」<br />facebookページは「<a href='http://www.facebook.com/1134joqr'>http://www.facebook.com/1134joqr</a>」<br />"
+                  "_text": "<img src='http://www.joqr.co.jp/programs/images/20171224123009-onNKa.jpg' style=\"max-width: 200px;\"> <br /><br /><br />番組メールアドレス：<br /><a href=\"mailto:yukarin@joqr.net\">yukarin@joqr.net</a><br /><br /><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E4%B9%99%E5%A5%B3%E3%83%A2%E3%83%BC%E3%83%89\">#乙女モード</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/joqrpr\">@joqrpr</a>」<br />facebookページは「<a href='http://www.facebook.com/1134joqr'>http://www.facebook.com/1134joqr</a>」<br />"
                 },
                 "pfm": {
                   "_text": "田村ゆかり"
@@ -10305,13 +10355,13 @@
               },
               {
                 "_attributes": {
-                  "id": "9488231241",
+                  "id": "9488266179",
                   "master_id": "",
-                  "ft": "20190509220000",
+                  "ft": "20190509225000",
                   "to": "20190509230000",
-                  "ftl": "2200",
+                  "ftl": "2250",
                   "tol": "2300",
-                  "dur": "3600"
+                  "dur": "600"
                 },
                 "title": {
                   "_text": "レコメン！22時台"
@@ -10330,13 +10380,13 @@
                 },
                 "desc": {},
                 "info": {
-                  "_text": "<img src='http://www.joqr.co.jp/programs/images/20181109165415-9UbNs.jpg' style=\"max-width: 200px;\"> <br /><br />※野球中継が放送された場合、延長により放送時間・番組内容が変更になる可能性があります。ご了承ください。<br /><br />【ジャニーズWEST 桐山照史・中間淳太】<br />今夜も3時間生放送！報告したいこと、質問、相談など<br /><a href=\"mailto:reco@joqr.net\">reco@joqr.net</a> までメール待ってます♪<br /><br /><a href=\"http://www.joqr.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">22:30 Sexy ZoneのQrzone</a><br /><a href=\"http://www.joqr.co.jp/reco/personality/heysay7.html\" target=\"_blank\">23:30 Hey!Say!7 UltraJUMP</a><br /><br /><br />番組メールアドレス：<br /><a href=\"mailto:reco@joqr.net\">reco@joqr.net</a><br />番組Webページ：<br /><a href=\"http://www.joqr.co.jp/reco/\">http://www.joqr.co.jp/reco/</a><br />番組twitter:<br /><a href=\"https://twitter.com/reco_oshirase\" target=\"_blank\">https://twitter.com/reco_oshirase</a><br /><br />コーナー番組サイト:<br />■月曜日<br /><a href=\"http://www.joQR.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">Sexy ZoneのQRzone</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/rinkuma.html\" target=\"_blank\">久間田琳加 りんくま*めがへるつ</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/sugai.html\" target=\"_blank\">菅井友香（欅坂46）</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/kinkikids.html\" target=\"_blank\">KinKi Kidsどんなもんヤ！</a><br /><br />■火曜日<br /><a href=\"http://www.joQR.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">Sexy ZoneのQRzone</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/sei.html\" target=\"_blank\">白石聖のわたくしごとですが…</a><br /><a href=\"http://www.joqr.co.jp/reco/personality/katoshiho.html\" target=\"_blank\">加藤史帆</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/knews.html\" target=\"_blank\">小山慶一郎 KちゃんNEWS</a><br /><br />■水曜日<br /><a href=\"http://www.joQR.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">Sexy ZoneのQRzone</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/karen.html\" target=\"_blank\">クラスメイトは大友花恋！</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/hori.html\" target=\"_blank\">堀未央奈（乃木坂46）</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/kis-my-radio.html\" target=\"_blank\">Kis-My-Ft2 キスマイRadio</a><br /><br />■木曜日<br /><a href=\"http://www.joQR.co.jp/reco/personality/kanjani.html\" target=\"_blank\">「ジャニーズWEST桐山照史・中間淳太のレコメン！」</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">Sexy ZoneのQRzone</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/heysay7.html\" target=\"_blank\">Hey！Say！7 UltraJUMP</a><br /><br /><br /><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23reco1134\">#reco1134</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/reco_oshirase\">@reco_oshirase</a>」<br />facebookページは「<a href='http://www.facebook.com/1134joqr'>http://www.facebook.com/1134joqr</a>」<br />"
+                  "_text": "<img src='http://www.joqr.co.jp/qr_img/detail/20150629152414.jpg' style=\"max-width: 200px;\"> <br /><br /><br />【ジャニーズWEST 桐山照史・中間淳太】<br />今夜も3時間生放送！報告したいこと、質問、相談など<br /><a href=\"mailto:reco@joqr.net\">reco@joqr.net</a> までメール待ってます♪<br /><br /><a href=\"http://www.joqr.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">22:30 Sexy ZoneのQrzone</a><br /><a href=\"http://www.joqr.co.jp/reco/personality/heysay7.html\" target=\"_blank\">23:30 Hey!Say!7 UltraJUMP</a><br /><br /><br />番組メールアドレス：<br /><a href=\"mailto:reco@joqr.net\">reco@joqr.net</a><br />番組Webページ：<br /><a href=\"http://www.joqr.co.jp/reco/\">http://www.joqr.co.jp/reco/</a><br />番組twitter:<br /><a href=\"https://twitter.com/reco_oshirase\" target=\"_blank\">https://twitter.com/reco_oshirase</a><br /><br />コーナー番組サイト:<br />■月曜日<br /><a href=\"http://www.joQR.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">Sexy ZoneのQRzone</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/rinkuma.html\" target=\"_blank\">久間田琳加 りんくま*めがへるつ</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/sugai.html\" target=\"_blank\">菅井友香（欅坂46）</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/kinkikids.html\" target=\"_blank\">KinKi Kidsどんなもんヤ！</a><br /><br />■火曜日<br /><a href=\"http://www.joQR.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">Sexy ZoneのQRzone</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/sei.html\" target=\"_blank\">白石聖のわたくしごとですが…</a><br /><a href=\"http://www.joqr.co.jp/reco/personality/katoshiho.html\" target=\"_blank\">加藤史帆</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/knews.html\" target=\"_blank\">小山慶一郎 KちゃんNEWS</a><br /><br />■水曜日<br /><a href=\"http://www.joQR.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">Sexy ZoneのQRzone</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/karen.html\" target=\"_blank\">クラスメイトは大友花恋！</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/hori.html\" target=\"_blank\">堀未央奈（乃木坂46）</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/kis-my-radio.html\" target=\"_blank\">Kis-My-Ft2 キスマイRadio</a><br /><br />■木曜日<br /><a href=\"http://www.joQR.co.jp/reco/personality/kanjani.html\" target=\"_blank\">「ジャニーズWEST桐山照史・中間淳太のレコメン！」</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">Sexy ZoneのQRzone</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/heysay7.html\" target=\"_blank\">Hey！Say！7 UltraJUMP</a><br /><br /><br /><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23reco1134\">#reco1134</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/reco_oshirase\">@reco_oshirase</a>」<br />facebookページは「<a href='http://www.facebook.com/1134joqr'>http://www.facebook.com/1134joqr</a>」<br />"
                 },
                 "pfm": {
-                  "_text": "ジャニーズWEST 桐山照史・中間淳太"
+                  "_text": "ジャニーズWEST桐山照史・中間淳太"
                 },
                 "img": {
-                  "_text": "https://radiko.jp/res/program/DEFAULT_IMAGE/QRR/bnobfkzxxf.png"
+                  "_text": "https://radiko.jp/res/program/DEFAULT_IMAGE/QRR/c0wyk8cjrj.png"
                 },
                 "metas": {
                   "meta": [
@@ -10357,7 +10407,7 @@
               },
               {
                 "_attributes": {
-                  "id": "9488231242",
+                  "id": "9488266136",
                   "master_id": "",
                   "ft": "20190509230000",
                   "to": "20190510000000",
@@ -10382,13 +10432,13 @@
                 },
                 "desc": {},
                 "info": {
-                  "_text": "<img src='http://www.joqr.co.jp/programs/images/20181109165415-9UbNs.jpg' style=\"max-width: 200px;\"> <br /><br />※野球中継が放送された場合、延長により放送時間・番組内容が変更になる可能性があります。ご了承ください。<br /><br />【ジャニーズWEST 桐山照史・中間淳太】<br />今夜も3時間生放送！報告したいこと、質問、相談など<br /><a href=\"mailto:reco@joqr.net\">reco@joqr.net</a> までメール待ってます♪<br /><br /><a href=\"http://www.joqr.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">22:30 Sexy ZoneのQrzone</a><br /><a href=\"http://www.joqr.co.jp/reco/personality/heysay7.html\" target=\"_blank\">23:30 Hey!Say!7 UltraJUMP</a><br /><br /><br />番組メールアドレス：<br /><a href=\"mailto:reco@joqr.net\">reco@joqr.net</a><br />番組Webページ：<br /><a href=\"http://www.joqr.co.jp/reco/\">http://www.joqr.co.jp/reco/</a><br />番組twitter:<br /><a href=\"https://twitter.com/reco_oshirase\" target=\"_blank\">https://twitter.com/reco_oshirase</a><br /><br />コーナー番組サイト:<br />■月曜日<br /><a href=\"http://www.joQR.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">Sexy ZoneのQRzone</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/rinkuma.html\" target=\"_blank\">久間田琳加 りんくま*めがへるつ</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/sugai.html\" target=\"_blank\">菅井友香（欅坂46）</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/kinkikids.html\" target=\"_blank\">KinKi Kidsどんなもんヤ！</a><br /><br />■火曜日<br /><a href=\"http://www.joQR.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">Sexy ZoneのQRzone</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/sei.html\" target=\"_blank\">白石聖のわたくしごとですが…</a><br /><a href=\"http://www.joqr.co.jp/reco/personality/katoshiho.html\" target=\"_blank\">加藤史帆</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/knews.html\" target=\"_blank\">小山慶一郎 KちゃんNEWS</a><br /><br />■水曜日<br /><a href=\"http://www.joQR.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">Sexy ZoneのQRzone</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/karen.html\" target=\"_blank\">クラスメイトは大友花恋！</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/hori.html\" target=\"_blank\">堀未央奈（乃木坂46）</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/kis-my-radio.html\" target=\"_blank\">Kis-My-Ft2 キスマイRadio</a><br /><br />■木曜日<br /><a href=\"http://www.joQR.co.jp/reco/personality/kanjani.html\" target=\"_blank\">「ジャニーズWEST桐山照史・中間淳太のレコメン！」</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">Sexy ZoneのQRzone</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/heysay7.html\" target=\"_blank\">Hey！Say！7 UltraJUMP</a><br /><br /><br /><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23reco1134\">#reco1134</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/reco_oshirase\">@reco_oshirase</a>」<br />facebookページは「<a href='http://www.facebook.com/1134joqr'>http://www.facebook.com/1134joqr</a>」<br />"
+                  "_text": "<img src='http://www.joqr.co.jp/qr_img/detail/20150629152414.jpg' style=\"max-width: 200px;\"> <br /><br /><br />【ジャニーズWEST 桐山照史・中間淳太】<br />今夜も3時間生放送！報告したいこと、質問、相談など<br /><a href=\"mailto:reco@joqr.net\">reco@joqr.net</a> までメール待ってます♪<br /><br /><a href=\"http://www.joqr.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">22:30 Sexy ZoneのQrzone</a><br /><a href=\"http://www.joqr.co.jp/reco/personality/heysay7.html\" target=\"_blank\">23:30 Hey!Say!7 UltraJUMP</a><br /><br /><br />番組メールアドレス：<br /><a href=\"mailto:reco@joqr.net\">reco@joqr.net</a><br />番組Webページ：<br /><a href=\"http://www.joqr.co.jp/reco/\">http://www.joqr.co.jp/reco/</a><br />番組twitter:<br /><a href=\"https://twitter.com/reco_oshirase\" target=\"_blank\">https://twitter.com/reco_oshirase</a><br /><br />コーナー番組サイト:<br />■月曜日<br /><a href=\"http://www.joQR.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">Sexy ZoneのQRzone</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/rinkuma.html\" target=\"_blank\">久間田琳加 りんくま*めがへるつ</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/sugai.html\" target=\"_blank\">菅井友香（欅坂46）</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/kinkikids.html\" target=\"_blank\">KinKi Kidsどんなもんヤ！</a><br /><br />■火曜日<br /><a href=\"http://www.joQR.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">Sexy ZoneのQRzone</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/sei.html\" target=\"_blank\">白石聖のわたくしごとですが…</a><br /><a href=\"http://www.joqr.co.jp/reco/personality/katoshiho.html\" target=\"_blank\">加藤史帆</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/knews.html\" target=\"_blank\">小山慶一郎 KちゃんNEWS</a><br /><br />■水曜日<br /><a href=\"http://www.joQR.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">Sexy ZoneのQRzone</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/karen.html\" target=\"_blank\">クラスメイトは大友花恋！</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/hori.html\" target=\"_blank\">堀未央奈（乃木坂46）</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/kis-my-radio.html\" target=\"_blank\">Kis-My-Ft2 キスマイRadio</a><br /><br />■木曜日<br /><a href=\"http://www.joQR.co.jp/reco/personality/kanjani.html\" target=\"_blank\">「ジャニーズWEST桐山照史・中間淳太のレコメン！」</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">Sexy ZoneのQRzone</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/heysay7.html\" target=\"_blank\">Hey！Say！7 UltraJUMP</a><br /><br /><br /><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23reco1134\">#reco1134</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/reco_oshirase\">@reco_oshirase</a>」<br />facebookページは「<a href='http://www.facebook.com/1134joqr'>http://www.facebook.com/1134joqr</a>」<br />"
                 },
                 "pfm": {
-                  "_text": "ジャニーズWEST 桐山照史・中間淳太"
+                  "_text": "ジャニーズWEST桐山照史・中間淳太"
                 },
                 "img": {
-                  "_text": "https://radiko.jp/res/program/DEFAULT_IMAGE/QRR/bnobfkzxxf.png"
+                  "_text": "https://radiko.jp/res/program/DEFAULT_IMAGE/QRR/c0wyk8cjrj.png"
                 },
                 "metas": {
                   "meta": [
@@ -10409,7 +10459,7 @@
               },
               {
                 "_attributes": {
-                  "id": "9488231243",
+                  "id": "9488266137",
                   "master_id": "",
                   "ft": "20190510000000",
                   "to": "20190510010000",
@@ -10434,13 +10484,13 @@
                 },
                 "desc": {},
                 "info": {
-                  "_text": "<img src='http://www.joqr.co.jp/programs/images/20181109165415-9UbNs.jpg' style=\"max-width: 200px;\"> <br /><br />※野球中継が放送された場合、延長により放送時間・番組内容が変更になる可能性があります。ご了承ください。<br /><br />【ジャニーズWEST 桐山照史・中間淳太】<br />今夜も3時間生放送！報告したいこと、質問、相談など<br /><a href=\"mailto:reco@joqr.net\">reco@joqr.net</a> までメール待ってます♪<br /><br /><a href=\"http://www.joqr.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">22:30 Sexy ZoneのQrzone</a><br /><a href=\"http://www.joqr.co.jp/reco/personality/heysay7.html\" target=\"_blank\">23:30 Hey!Say!7 UltraJUMP</a><br /><br /><br />番組メールアドレス：<br /><a href=\"mailto:reco@joqr.net\">reco@joqr.net</a><br />番組Webページ：<br /><a href=\"http://www.joqr.co.jp/reco/\">http://www.joqr.co.jp/reco/</a><br />番組twitter:<br /><a href=\"https://twitter.com/reco_oshirase\" target=\"_blank\">https://twitter.com/reco_oshirase</a><br /><br />コーナー番組サイト:<br />■月曜日<br /><a href=\"http://www.joQR.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">Sexy ZoneのQRzone</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/rinkuma.html\" target=\"_blank\">久間田琳加 りんくま*めがへるつ</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/sugai.html\" target=\"_blank\">菅井友香（欅坂46）</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/kinkikids.html\" target=\"_blank\">KinKi Kidsどんなもんヤ！</a><br /><br />■火曜日<br /><a href=\"http://www.joQR.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">Sexy ZoneのQRzone</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/sei.html\" target=\"_blank\">白石聖のわたくしごとですが…</a><br /><a href=\"http://www.joqr.co.jp/reco/personality/katoshiho.html\" target=\"_blank\">加藤史帆</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/knews.html\" target=\"_blank\">小山慶一郎 KちゃんNEWS</a><br /><br />■水曜日<br /><a href=\"http://www.joQR.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">Sexy ZoneのQRzone</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/karen.html\" target=\"_blank\">クラスメイトは大友花恋！</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/hori.html\" target=\"_blank\">堀未央奈（乃木坂46）</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/kis-my-radio.html\" target=\"_blank\">Kis-My-Ft2 キスマイRadio</a><br /><br />■木曜日<br /><a href=\"http://www.joQR.co.jp/reco/personality/kanjani.html\" target=\"_blank\">「ジャニーズWEST桐山照史・中間淳太のレコメン！」</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">Sexy ZoneのQRzone</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/heysay7.html\" target=\"_blank\">Hey！Say！7 UltraJUMP</a><br /><br /><br /><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23reco1134\">#reco1134</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/reco_oshirase\">@reco_oshirase</a>」<br />facebookページは「<a href='http://www.facebook.com/1134joqr'>http://www.facebook.com/1134joqr</a>」<br />"
+                  "_text": "<img src='http://www.joqr.co.jp/qr_img/detail/20150629152414.jpg' style=\"max-width: 200px;\"> <br /><br /><br />【ジャニーズWEST 桐山照史・中間淳太】<br />今夜も3時間生放送！報告したいこと、質問、相談など<br /><a href=\"mailto:reco@joqr.net\">reco@joqr.net</a> までメール待ってます♪<br /><br /><a href=\"http://www.joqr.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">22:30 Sexy ZoneのQrzone</a><br /><a href=\"http://www.joqr.co.jp/reco/personality/heysay7.html\" target=\"_blank\">23:30 Hey!Say!7 UltraJUMP</a><br /><br /><br />番組メールアドレス：<br /><a href=\"mailto:reco@joqr.net\">reco@joqr.net</a><br />番組Webページ：<br /><a href=\"http://www.joqr.co.jp/reco/\">http://www.joqr.co.jp/reco/</a><br />番組twitter:<br /><a href=\"https://twitter.com/reco_oshirase\" target=\"_blank\">https://twitter.com/reco_oshirase</a><br /><br />コーナー番組サイト:<br />■月曜日<br /><a href=\"http://www.joQR.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">Sexy ZoneのQRzone</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/rinkuma.html\" target=\"_blank\">久間田琳加 りんくま*めがへるつ</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/sugai.html\" target=\"_blank\">菅井友香（欅坂46）</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/kinkikids.html\" target=\"_blank\">KinKi Kidsどんなもんヤ！</a><br /><br />■火曜日<br /><a href=\"http://www.joQR.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">Sexy ZoneのQRzone</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/sei.html\" target=\"_blank\">白石聖のわたくしごとですが…</a><br /><a href=\"http://www.joqr.co.jp/reco/personality/katoshiho.html\" target=\"_blank\">加藤史帆</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/knews.html\" target=\"_blank\">小山慶一郎 KちゃんNEWS</a><br /><br />■水曜日<br /><a href=\"http://www.joQR.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">Sexy ZoneのQRzone</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/karen.html\" target=\"_blank\">クラスメイトは大友花恋！</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/hori.html\" target=\"_blank\">堀未央奈（乃木坂46）</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/kis-my-radio.html\" target=\"_blank\">Kis-My-Ft2 キスマイRadio</a><br /><br />■木曜日<br /><a href=\"http://www.joQR.co.jp/reco/personality/kanjani.html\" target=\"_blank\">「ジャニーズWEST桐山照史・中間淳太のレコメン！」</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/sexyzone.html\" target=\"_blank\">Sexy ZoneのQRzone</a><br /><a href=\"http://www.joQR.co.jp/reco/personality/heysay7.html\" target=\"_blank\">Hey！Say！7 UltraJUMP</a><br /><br /><br /><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23reco1134\">#reco1134</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/reco_oshirase\">@reco_oshirase</a>」<br />facebookページは「<a href='http://www.facebook.com/1134joqr'>http://www.facebook.com/1134joqr</a>」<br />"
                 },
                 "pfm": {
-                  "_text": "ジャニーズWEST 桐山照史・中間淳太"
+                  "_text": "ジャニーズWEST桐山照史・中間淳太"
                 },
                 "img": {
-                  "_text": "https://radiko.jp/res/program/DEFAULT_IMAGE/QRR/bnobfkzxxf.png"
+                  "_text": "https://radiko.jp/res/program/DEFAULT_IMAGE/QRR/c0wyk8cjrj.png"
                 },
                 "metas": {
                   "meta": [

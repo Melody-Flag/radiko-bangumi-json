@@ -29,7 +29,7 @@ async function toJSON(name) {
     );
     const json = parser.xml2json(res.data, {
       compact: true,
-      spaces: 2,
+      // spaces: 2,
       ignoreDeclaration: true,
       ignoreInstruction: true,
       ignoreComment: true

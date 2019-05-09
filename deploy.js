@@ -1,9 +1,9 @@
 const fs = require("fs");
 const ghpages = require("gh-pages");
 
-fs.writeFileSync("./dist/CNAME", "radiko-bangumi-json.mmf.moe", {
-  encoding: "utf-8"
-});
+// fs.writeFileSync("./dist/CNAME", "radiko-bangumi-json.mmf.moe", {
+//   encoding: "utf-8"
+// });
 
 ghpages.publish(
   "dist",
@@ -19,6 +19,6 @@ ghpages.publish(
     }
   },
   err => {
-    console.error(err);
+    if (err) console.error(err);
   }
 );

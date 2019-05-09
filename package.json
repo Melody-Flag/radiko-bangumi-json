@@ -1,0 +1,43 @@
+{
+  "name": "radiko-bangumi-json",
+  "version": "1.0.0",
+  "description": "Daily updated radiko bangumi json.",
+  "main": "index.js",
+  "repository": "https://github.com/mmf-moe/radiko-bangumi-json.git",
+  "author": "Yesterday17 <t@yesterday17.cn>",
+  "license": "MIT",
+  "scripts": {
+    "build": "node index.js",
+    "deploy": "node deploy.js",
+    "publish": "yarn build && yarn deploy"
+  },
+  "devDependencies": {
+    "github-pages": "^3.0.2"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "xml-js": "^1.6.11"
+  },
+  "github-pages": {
+    "api": {
+      "version": "3.0.0",
+      "protocol": "https",
+      "host": "api.github.com",
+      "pathPrefix": "",
+      "timeout": 5000
+    },
+    "remote": {
+      "user": "mmf-moe",
+      "repo": "radiko-bangumi-json",
+      "ref": "heads/gh-pages"
+    },
+    "commit": {
+      "message": "Commit triggered automatically.",
+      "author": {
+        "name": "Yesterday17",
+        "email": "t@yesterday17.cn"
+      }
+    },
+    "src": "./dist"
+  }
+}

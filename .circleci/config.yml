@@ -27,15 +27,14 @@ jobs:
 
 workflows:
   version: 2
-  build-and-deploy:
-    jobs:
-      - build
   nightly:
     triggers:
       - schedule:
-          # 22:00(GMT+8) everyday
           cron: "0 13 * * *"
           filters:
             branches:
               only:
                 - master
+                - beta
+    jobs:
+      - build

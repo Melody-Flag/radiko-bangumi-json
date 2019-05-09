@@ -5,6 +5,9 @@ const ghpages = require("gh-pages");
 //   encoding: "utf-8"
 // });
 
+console.log(
+  `Update triggered automatically.\n\nAt ${Date.now()}(${new Date()}) [ci skip]`
+);
 ghpages.publish(
   "dist",
   {
